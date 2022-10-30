@@ -2,7 +2,7 @@ body {
     font-family: sans-serif;
     line-height: 1.5;
   
-    background-color: yellow;
+    background-color: blue;
     color: #333333;
   
     width: 980px;
@@ -18,7 +18,7 @@ h1 {
 main>h2 {
     text-align: center;
     font-size: 25px;
-    color: blue;
+    color: yellow;
 }
 
 ul {
